@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/+oCIgs1QBi8x/t9TBfpTHWYVvZLnh+qgcLlHb9f8qdnEgpBEYSsS9wxZIud6ATxmaS7OuJ77qND8oKuW+rMAA==",
+  "success": true,
+  "projectFilePath": "D:\\PETuts\\HOK\\_4Demo\\HOKServer\\HOKProtocol\\HOKProtocol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Plane\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Plane\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
